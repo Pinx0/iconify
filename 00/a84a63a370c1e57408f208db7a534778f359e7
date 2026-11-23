@@ -1,0 +1,36 @@
+components/react/src/iconify.ts
+  s_8ab0022f613c00::t_b2408e260c5f0f 79
+  s_8ab0022f613c00::t_b5f07dff4a00c2 1
+  s_8ab0022f613c00::t_62dfa02ea98d2c 247-249
+  s_8ab0022f613c00::t_e81424e39d9c71 330-331
+components/react/src/render.ts
+  s_8ab0022f613c00::t_b678316fc112cf 79-115,121,126-127
+  s_8ab0022f613c00::t_93c5dfa0c14f13 254
+components/react/tests/offline/30-rerender.test.ts
+  s_8ab0022f613c00::t_79f5476587bed7 1-82
+components/react/tests/iconify/30-rerender.test.ts
+  s_8ab0022f613c00::t_b04c1e73dbbcd1 77-79
+  s_8ab0022f613c00::t_68a52bbb927242 1-76
+  s_8ab0022f613c00::t_6b21c7dbd35eb2 80-82
+components/react/src/offline.ts
+  s_8ab0022f613c00::t_627787b91a5259 16
+  s_8ab0022f613c00::t_9762dce3efa38c 59-60
+  s_8ab0022f613c00::t_1baf1e41e3dd73 1
+  s_8ab0022f613c00::t_a5f4b1f85cc689 41-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "00a84a63a370c1e57408f208db7a534778f359e7",
+  "prompts": {},
+  "sessions": {
+    "s_8ab0022f613c00": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d8c2aa73-2fac-48b5-824a-caf2a5d69ce3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Pablo López <pablo@bold-factory.com>"
+    }
+  }
+}
